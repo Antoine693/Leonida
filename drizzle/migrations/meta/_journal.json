@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794924568514,
+      "tag": "0000_sirh_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794924673516,
+      "tag": "0001_seed_collaborateurs_leonida",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794924843443,
+      "tag": "0002_allow_upsert_key_column",
+      "breakpoints": true
+    }
+  ]
+}

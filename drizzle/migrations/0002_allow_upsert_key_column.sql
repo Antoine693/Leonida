@@ -1,0 +1,1 @@
+GRANT UPDATE (id_collaborateur) ON public.collaborateurs TO authenticated;
