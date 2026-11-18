@@ -1,2 +1,0 @@
-# Leonida
-IA SIRH
